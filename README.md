@@ -1,2 +1,2 @@
 # webpage
-My first webpage experiment. It is a static webpage. I did it using HTML an CSS. The whole design is mine.
+My first webpage experiment. It is a static webpage. I did it using HTML and CSS. The whole design is mine.
